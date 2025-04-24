@@ -1,3 +1,4 @@
 streamlit
-pyvis
-streamlit-pyvis
+pandas
+numpy
+networkx
